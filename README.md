@@ -1,2 +1,3 @@
 # Prachi
-this is prachi's repository
+this is prachi's repository <br>
+Author Prachi
